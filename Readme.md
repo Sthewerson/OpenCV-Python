@@ -14,7 +14,7 @@ Certifique-se de ter os seguintes requisitos instalados em seu sistema antes de 
 1. Clone este repositório em seu computador:
 
 ```bash
-git clone 
+git clone https://github.com/Sthewerson/OpenCV-Python.git
 ```
 
 Acesse o diretório do projeto:
